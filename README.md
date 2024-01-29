@@ -18,3 +18,7 @@
 
 
 노션링크 https://www.notion.so/734e4f5e42c14da7b7de026e27a30920?pvs=4
+
+File Used
+Chapter 1
+- D:\user\Desktop\DataScience_git\dataset\un-general-debates-blueprint.csv
